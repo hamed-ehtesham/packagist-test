@@ -8,7 +8,7 @@
             "email": "parsisolution@gmail.com"
         }
     ],
-    "suggests": [
+    "suggest": [
         "parsisolutoin/gateway"
     ]
 }
