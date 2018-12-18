@@ -8,7 +8,7 @@
             "email": "parsisolution@gmail.com"
         }
     ],
-    "suggest": [
-        "parsisolutoin/gateway"
-    ]
+    "suggest": {
+        "parsisolutoin/gateway": "this package is recomended"
+    }
 }
