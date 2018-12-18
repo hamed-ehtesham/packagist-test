@@ -1,0 +1,11 @@
+{
+    "name": "parsisolution/gateway",
+    "description": "A Laravel package for connecting to all Iraninan payment gateways",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamed Ehtesham",
+            "email": "parsisolution@gmail.com"
+        }
+    ]
+}
